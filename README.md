@@ -1,5 +1,5 @@
-# Lexer-for-COOL
-This project implements a lexer for the COOL (Classroom Object-Oriented Language) language using ANTLR4.
+#COOL-Compiler
+This project implements a Compiler for the COOL (Classroom Object-Oriented Language) language written in JAVA using ANTLR4.
 
 
 ## Prerequisites
