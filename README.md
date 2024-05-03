@@ -1,4 +1,4 @@
-#COOL-Compiler
+## COOL Compiler
 This project implements a Compiler for the COOL (Classroom Object-Oriented Language) language written in JAVA using ANTLR4.
 
 
