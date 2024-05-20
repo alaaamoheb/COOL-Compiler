@@ -1,0 +1,7 @@
+class Main {
+	main():IO {
+		do loop if x < 12 then x <- 12 else x < 12 fi pool while if x < 12 then  x <- 12  else x < 12 fi
+	};
+
+};
+
